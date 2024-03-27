@@ -1,0 +1,343 @@
+body {
+    margin-bottom: 15px;
+    background-color: #d0d3d4;
+    border-radius: 4px;
+}
+
+h1 {
+    width: fit-content;
+    margin: auto;
+}
+
+.base {
+    margin-bottom: 15px;
+    background-color: #d0d3d4;
+    border-radius: 4px;
+}
+
+/* EXERCICIO A */
+/* A1 */
+
+.container1 {
+    background-color: #D0D3D4;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    margin-bottom: 4px;
+
+}
+
+.div1 {
+    background-color: #63B1BC;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.div2 {
+    background-color: #1F2A44;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.div3 {
+    background-color: #ED145B;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.div4 {
+    background-color: #EFB661;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+/* A2 */
+
+.container2 {
+    background-color: #D0D3D4;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-bottom: 4px;
+
+}
+
+.div5 {
+    background-color: #63B1BC;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.div6 {
+    background-color: #1F2A44;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.div7 {
+    background-color: #ED145B;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.div8 {
+    background-color: #EFB661;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+/* A3 */
+
+.container3 {
+    background-color: #D0D3D4;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-bottom: 4px;
+
+}
+
+.divA {
+    background-color: #63B1BC;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divB {
+    background-color: #1F2A44;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divC {
+    background-color: #ED145B;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divD {
+    background-color: #EFB661;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+/* A4 */
+
+.container4 {
+    background-color: #D0D3D4;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 4px;
+}
+
+.divE {
+    background-color: #63B1BC;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divF {
+    background-color: #1F2A44;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divG {
+    background-color: #ED145B;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divH {
+    background-color: #EFB661;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+/* A5 */
+
+.container5 {
+    background-color: #D0D3D4;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 4px;
+
+}
+
+.divI {
+    background-color: #63B1BC;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divJ {
+    background-color: #1F2A44;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divK {
+    background-color: #ED145B;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divL {
+    background-color: #EFB661;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+/* A6 */
+
+.container6 {
+    background-color: #D0D3D4;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-bottom: 4px;
+
+}
+
+.divM {
+    background-color: #63B1BC;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divN {
+    background-color: #1F2A44;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divO {
+    background-color: #ED145B;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divP {
+    background-color: #EFB661;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+/* EXERCICIO B */
+
+.container-exercicioB {
+    background-color: #D0D3D4;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: column-reverse;
+    margin-bottom: 4px;
+
+}
+
+.diva {
+    background-color: #63B1BC;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divb {
+    background-color: #1F2A44;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divc {
+    background-color: #ED145B;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divd {
+    background-color: #EFB661;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+/* DESAFIO */
+
+.container-desafio {
+    background-color: #D0D3D4;
+    width: 100%;
+    height: 400px;
+    display: flex;
+    flex-direction: row-reverse;
+    margin-bottom: 4px;
+    justify-content: flex-end;
+
+}
+
+.dive {
+    background-color: #63B1BC;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divf {
+    background-color: #1F2A44;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divg {
+    background-color: #ED145B;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.divh {
+    background-color: #EFB661;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
